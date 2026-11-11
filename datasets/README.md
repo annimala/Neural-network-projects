@@ -1,0 +1,1 @@
+`jane_austen_pride_and_prejudice.txt` contains unmodified book _Pride and Prejudice_ by Jane Austen, fetched from [Gutenberg](https://www.gutenberg.org/ebooks/1342). It is cleaned with a [clean_book_text.ipynb](../utils/clean_book_text.ipynb) script and saved as `jane_austen_pride_and_prejudice_clean.txt`.
